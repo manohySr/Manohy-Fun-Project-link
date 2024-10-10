@@ -2,6 +2,11 @@
 
 Welcome to my fun project showcase! Below are some of the projects I've been working on. Feel free to explore them.
 
+## 🖥️📝 Tutorial
+- [OAuth in TS](https://github.com/manohySr/oauth-in-ts)
+- [Server Security](https://github.com/manohySr/walk-through-server-security)
+- [Setting up ssh for github](https://github.com/manohySr/what-is-ssh)
+
 ## 🎨 **CSS Kotrana**
 Dive into my CSS projects:
 
@@ -20,5 +25,6 @@ Check out my Node.js projects:
 - [Cat Wiki Master](https://cat-wiki-master-seven.vercel.app/)
 - [Nasa Test](https://github.com/manohySr/NasaTest/)
 - [First hand vuejs](https://github.com/manohySr/handy-vue)
+  
 ## 🚀 **More Projects Coming Soon!**
 Stay tuned for more exciting projects in the future!
